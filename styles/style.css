@@ -39,3 +39,7 @@
      transform: scale(1.1) translateY(-20px);
      transition: transform .5s ease-out;
 }
+
+.convention_toast {
+    border-left: 7px solid #3F87F5;
+}
